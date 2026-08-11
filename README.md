@@ -4,64 +4,77 @@
   ════════════════════════════════════════════════════════════════════════
 -->
 
-<!-- ═══════════════════ INTRO HERO SECTION ═══════════════════ -->
+<!-- ═══════════════════ CREATIVE ACADEMIC HERO CONSOLE ═══════════════════ -->
 
-<div align="center">
+<table width="100%" border="0">
+  <tr>
+    <!-- LEFT COLUMN: RESEARCH IDENTITY & LINKS -->
+    <td width="58%" valign="top">
+      <h1>⚡ Md. Sajid Hasan</h1>
+      <p><strong>Electrical & Electronic Engineering Researcher</strong></p>
+      
+      <p>
+        🔬 <strong>Research Intern</strong> @ <em>King's College London, UK</em><br/>
+        🎓 <strong>B.Sc. in EEE</strong> @ <em>University of Liberal Arts Bangladesh (ULAB)</em>
+      </p>
 
-<!-- GREETING WAVE -->
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" alt="wave"/>
+      <!-- ANIMATED TYPING RESEARCH FOCUS -->
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=3000&pause=1000&color=7C3AED&multiline=false&width=450&height=28&lines=Solar+PV+%7C+Green+Hydrogen+%7C+Device+Simulation;3x+Q1+Journals+%7C+4x+IEEE+Conference+Papers;Deep+Learning+for+Microgrids+%26+Energy+Systems" alt="Research Focus" />
+      </a>
 
-<!-- BIG BOLD NAME -->
-# Hi, I'm **Md. Sajid Hasan**
+      <br/><br/>
 
-<!-- ANIMATED TYPING ROLES -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=80&lines=EEE+Researcher+%7C+Renewable+Energy+%26+Solar+PV;Research+Intern+%40+King's+College+London%2C+UK" alt="Typing SVG" />
-</a>
+      <!-- DIRECT ACTION BUTTONS -->
+      <a href="https://sites.google.com/view/mdsajidhasan" target="_blank">
+        <img src="https://img.shields.io/badge/🌐%20Portfolio-7c3aed?style=flat-square&logoColor=white" alt="Portfolio" />
+      </a>&nbsp;
+      <a href="https://shorturl.at/8pxD3" target="_blank">
+        <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Scholar" />
+      </a>&nbsp;
+      <a href="https://linkedin.com/in/md-sajid-hasan-469919280/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a>&nbsp;
+      <a href="mailto:sajid.hasan.eee@ulab.edu.bd">
+        <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+      </a>
+    </td>
 
-<br/>
-
-<!-- KEY ACHIEVEMENT BADGES — EYE-CATCHING -->
-<img src="https://img.shields.io/badge/📚%20Publications-3x%20Q1%20Journals%20+%204x%20IEEE-7c3aed?style=for-the-badge&labelColor=1a1b27" alt="Publications" />
-<img src="https://img.shields.io/badge/🇬🇧%20Research%20Intern-King's%20College%20London-4f46e5?style=for-the-badge&labelColor=1a1b27" alt="KCL" />
-<img src="https://img.shields.io/badge/🎓%20CGPA-3.87%20%2F%204.00-6366f1?style=for-the-badge&labelColor=1a1b27" alt="CGPA" />
-
-<br/><br/>
-
-<!-- INFO PILLS -->
-<img src="https://img.shields.io/badge/B.Sc.%20in%20EEE%20(Electronics)-ULAB-7c3aed?style=flat-square" alt="Education" />
-<img src="https://img.shields.io/badge/Location-Dhaka,%20Bangladesh-6366f1?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
-<img src="https://img.shields.io/badge/IELTS-7.0-a855f7?style=flat-square" alt="IELTS" />
-
-<br/><br/>
-
-<!-- SOCIAL & PORTFOLIO LINKS -->
-<a href="https://sites.google.com/view/mdsajidhasan" target="_blank">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-7c3aed?style=for-the-badge&logoColor=white" alt="Portfolio" />
-</a>&nbsp;
-<a href="https://linkedin.com/in/md-sajid-hasan-469919280/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>&nbsp;
-<a href="mailto:sajid.hasan.eee@ulab.edu.bd">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>&nbsp;
-<a href="https://shorturl.at/8pxD3" target="_blank">
-  <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Scholar" />
-</a>
-
-<br/><br/>
-
-<!-- PROFILE COUNTERS -->
-<img src="https://komarev.com/ghpvc/?username=sejansajid&label=Profile%20views&color=a855f7&style=flat-square" alt="Views" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/sejansajid?label=Followers&color=6366f1&style=flat-square" alt="Followers" />
-&nbsp;
-<img src="https://img.shields.io/github/stars/sejansajid?label=Stars&color=4f46e5&style=flat-square" alt="Stars" />
-
-</div>
+    <!-- RIGHT COLUMN: RESEARCH SNAPSHOT & METRICS PANEL -->
+    <td width="42%" valign="top" align="center">
+      <table width="100%">
+        <tr>
+          <td align="center">
+            <strong>📊 Research Snapshot</strong>
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+            <img src="https://img.shields.io/badge/📚%20Publications-3x%20Q1%20+%204x%20IEEE-7c3aed?style=for-the-badge&labelColor=1a1b27" width="100%" alt="Publications" /><br/>
+            <img src="https://img.shields.io/badge/🏛️%20Internship-King's%20College%20London-4f46e5?style=for-the-badge&labelColor=1a1b27" width="100%" alt="KCL" /><br/>
+            <img src="https://img.shields.io/badge/🎓%20Academic%20CGPA-3.87%20%2F%204.00-6366f1?style=for-the-badge&labelColor=1a1b27" width="100%" alt="CGPA" />
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+            <img src="https://img.shields.io/badge/Location-Dhaka,%20Bangladesh-6366f1?style=flat-square&logo=googlemaps&logoColor=white" />
+            <img src="https://img.shields.io/badge/IELTS-7.0-a855f7?style=flat-square" />
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+            <img src="https://komarev.com/ghpvc/?username=sejansajid&label=Views&color=a855f7&style=flat-square" />
+            <img src="https://img.shields.io/github/followers/sejansajid?label=Followers&color=6366f1&style=flat-square" />
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 <!-- VISUAL SEPARATOR LINE -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 
 
 
