@@ -65,169 +65,209 @@
 
 
 
-## 🔬 Executive Overview & About Me
+## 🔬 About Me
 
-I am an **Electrical & Electronic Engineering (EEE)** researcher specializing in **solar photovoltaics (PV), green hydrogen production, photoelectronic device multiphysics simulation, and applied artificial intelligence/deep learning**.
+> *Electrical & Electronic Engineering researcher pushing the boundaries of solar photovoltaics, green hydrogen, and applied AI — from simulation to real-world impact.*
 
-* 🏛️ **Education**: B.Sc. in EEE (Major in Electronics), **University of Liberal Arts Bangladesh (ULAB)** — **CGPA 3.87 / 4.00**.
-* 🇬🇧 **Research Internship**: Numerical Simulation of Photoelectronic Devices Intern at **King's College London (KCL), UK**.
-* 📚 **Publications**: **3× Q1 Journal Articles** (*Energy Conversion and Management* IF: 10.9, *IEEE Access* IF: 3.6) + **4× IEEE Conference Papers** (ICPS, INFOTEH, CIEES, BITCON).
-* 🎯 **Research Interests**: Photovoltaic Solar Systems | Green Hydrogen | Net-Zero Carbon | Deep Learning for Microgrids | Semiconductor Materials.
+* 🏛️ **Education** — B.Sc. in EEE (Major in Electronics), **ULAB** — **CGPA 3.87 / 4.00**
+* 🇬🇧 **Research Intern** — Photoelectronic Devices Simulation @ **King's College London, UK**
+* 📚 **Track Record** — **3× Q1 Journal Articles** + **4× IEEE Conference Papers**
+* 🎯 **Interests** — `Solar PV` · `Green Hydrogen` · `Net-Zero Carbon` · `Deep Learning for Microgrids` · `Semiconductor Physics`
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 💼 Professional Experiences
+## 💼 Professional Experience
 
-### 🇬🇧 Numerical Simulation of Photoelectronic Devices Intern
-**King's College London (KCL), United Kingdom** *(20/06/2026 – Present)*
-* Simulated photoelectrochemical (PEC) solar-cell devices in **COMSOL Multiphysics** for solar-to-hydrogen energy conversion applications.
-* Modeled hematite photoanodes, KOH electrolyte, and platinum counter-electrode layers.
-* Defined optical, electrical, and electrochemical parameters for multiphysics device simulations.
-* Analyzed material properties and operating conditions to optimize device solar-to-hydrogen performance.
-* Collaborated with academic supervisors and international collaborators to refine physics models.
+<table>
+  <tr>
+    <td width="80" align="center">🇬🇧</td>
+    <td>
+      <strong>Numerical Simulation of Photoelectronic Devices Intern</strong><br/>
+      <em>King's College London (KCL), United Kingdom</em> · <code>Jun 2026 – Present</code><br/>
+      <sub>▸ Simulated PEC solar-cell devices in <b>COMSOL Multiphysics</b> for solar-to-hydrogen conversion<br/>
+      ▸ Modeled hematite photoanodes, KOH electrolyte, and platinum counter-electrode layers<br/>
+      ▸ Defined optical, electrical, and electrochemical multiphysics parameters<br/>
+      ▸ Collaborated with international academic supervisors to refine physics models</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="80" align="center">🎓</td>
+    <td>
+      <strong>Undergraduate Teaching Assistant</strong><br/>
+      <em>Dept. of EEE, ULAB</em> · <code>Jan 2025 – May 2025</code><br/>
+      <sub>▸ Guided EEE students in lab demonstrations and theoretical problem solving<br/>
+      ▸ Conducted interactive laboratory sessions and graded assignments</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="80" align="center">✍️</td>
+    <td>
+      <strong>Content Writer & Marketing Officer</strong><br/>
+      <em>Plantake (App Development Company)</em> · <code>Mar 2024 – Jun 2024</code><br/>
+      <sub>▸ Managed marketing strategies and digital campaigns for software applications<br/>
+      ▸ Coordinated social media channels and international influencer outreach</sub>
+    </td>
+  </tr>
+</table>
 
-### 🎓 Undergraduate Teaching Assistant
-**Department of EEE, University of Liberal Arts Bangladesh (ULAB)** *(25/01/2025 – 04/05/2025)*
-* Guided undergraduate EEE students in course topics, lab demonstrations, and theoretical problem solving.
-* Conducted interactive laboratory sessions, demonstrating practical applications of electronic circuits.
-* Graded assignments and examinations while developing constructive learning resources.
-
-### ✍️ Content Writer & Marketing Officer
-**Plantake (App Development Company)** *(01/03/2024 – 30/06/2024)*
-* Managed marketing strategies and digital campaign operations for newly launched software applications.
-* Managed corporate social media channels and coordinated international influencer outreach.
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 💻 Technical & Simulation Stack
 
+<div align="center">
+
 ### Programming & Core Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,matlab,c,git,github,vscode" alt="Tech Stack" />
-  </a>
-</p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,matlab,c,git,github,vscode" alt="Tech Stack" />
+</a>
 
-### Specialization & Engineering Software
+<br/><br/>
 
-| Domain | Tools & Software |
-| :--- | :--- |
-| **Solar & Renewable Energy Design** | PVSyst, Helioscope, SAM (System Advisor Model), HOMER |
-| **Multiphysics & Solar Cell Simulation** | COMSOL Multiphysics, SCAPS-1D |
-| **Power Systems & Circuits** | MATLAB / Simulink, PowerWorld Simulator, PSpice, Proteus |
-| **CAD & Engineering Graphics** | AutoCAD, Homestyler, Microsoft Visio, OriginLab |
+### Specialization Software
 
----
+<img src="https://img.shields.io/badge/COMSOL-Multiphysics-0078D4?style=for-the-badge&labelColor=1a1b27" />
+<img src="https://img.shields.io/badge/PVSyst-Solar%20Sim-F7931E?style=for-the-badge&labelColor=1a1b27" />
+<img src="https://img.shields.io/badge/SCAPS--1D-Device%20Sim-4CAF50?style=for-the-badge&labelColor=1a1b27" />
+<img src="https://img.shields.io/badge/MATLAB-Simulink-E16737?style=for-the-badge&labelColor=1a1b27" />
+<br/>
+<img src="https://img.shields.io/badge/Helioscope-PV%20Design-FF6F00?style=for-the-badge&labelColor=1a1b27" />
+<img src="https://img.shields.io/badge/HOMER-Energy-2196F3?style=for-the-badge&labelColor=1a1b27" />
+<img src="https://img.shields.io/badge/AutoCAD-Design-E51050?style=for-the-badge&labelColor=1a1b27" />
+<img src="https://img.shields.io/badge/Proteus-Circuits-1976D2?style=for-the-badge&labelColor=1a1b27" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 📊 Citation Impact & Publication Metrics
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Total%20Publications-7-7c3aed?style=for-the-badge&labelColor=1a1b27" />
+<img src="https://img.shields.io/badge/Q1%20Journals-3-4f46e5?style=for-the-badge&labelColor=1a1b27" />
+<img src="https://img.shields.io/badge/IEEE%20Conferences-4-6366f1?style=for-the-badge&labelColor=1a1b27" />
+<img src="https://img.shields.io/badge/Highest%20IF-10.9-a855f7?style=for-the-badge&labelColor=1a1b27" />
+
+</div>
+
+<br/>
+
+### 📈 Impact Factor Distribution
+
+```
+  Journal / Venue                      Impact Factor
+  ─────────────────────────────────────────────────────────────
+  Energy Conversion & Management  ██████████████████████ 10.9  ⭐ Q1
+  IEEE Access (Paper 1)           ███████▎               3.6   ⭐ Q1
+  IEEE Access (Paper 2)           ███████▎               3.6   ⭐ Q1
+  IEEE ICPS 2023                  ████▌                  Scopus
+  IEEE INFOTEH 2024               ████▌                  Scopus
+  IEEE CIEES 2024                 ████▌                  Scopus
+  IEEE BITCON 2024                ████▌                  Scopus
+```
+
+### 📅 Publication Timeline
+
+```
+  2023  ████████████  2 papers  (1 Q1 Journal + 1 IEEE Conference)
+  2024  ██████████████████  3 papers  (3 IEEE Conferences)
+  2025  ████████████  2 papers  (2 Q1 Journals)
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📑 Research Publications
 
-### 📰 Journal Articles (Peer-Reviewed)
-1. **A. Jawad, Md. S. Hasan, Md. F. I. Faruqui, and N.-A.- Masood**, *"Small-scale floating photovoltaic systems in university campus: A pathway to achieving SDG 7 goals in Bangladesh,"* **Energy Conversion and Management**, vol. 297, p. 117722, Dec. 2023. **[Impact Factor: 10.9, Q1]** $\rightarrow$ [DOI Link](https://doi.org/10.1016/j.enconman.2023.117722)
-2. **M. A. I. Rafi, Md. S. Hasan, I.-U. Rashid, M. M. Hasan, J. A. Chowdhury, M. R. Sohan, N. A. Jahan, and M. M. Hossain**, *"Techno-Economic and Environmental Analysis of Solar PV System at Sher-e-Bangla National Cricket Stadium: a Comprehensive Case Study,"* **IEEE Access**, vol. 13, pp. 52658–52682, 2025. **[Impact Factor: 3.6, Q1]** $\rightarrow$ [DOI Link](https://doi.org/10.1109/access.2025.3553636)
-3. **M. Rasheduzzaman, Md. S. Hasan, N. A. Jahan, A. Jawad, and M. M. Hossain**, *"Assessment of Greenhouse Gas Emissions and Mitigation Strategies for a University in Bangladesh,"* **IEEE Access**, vol. 13, pp. 153741–153763, Jan. 2025. **[Impact Factor: 3.6, Q1]** $\rightarrow$ [DOI Link](https://doi.org/10.1109/access.2025.3605517)
+### 📰 Q1 Journal Articles
 
-### 🏛️ International IEEE Conference Proceedings
-1. **Md. S. Hasan and A. Jawad**, *"Clean Hydrogen Production from Floating Photovoltaics: A Case Study in Dhanmondi Lake, Dhaka,"* **2023 10th IEEE International Conference on Power Systems (ICPS)**, Dec. 2023. $\rightarrow$ [DOI Link](https://doi.org/10.1109/icps60393.2023.10428710)
-2. **M. A. I. Rafi, M. R. Sohan, Md. S. Hasan, T. S. Rafa, and A. Jawad**, *"Exploring Classification of Vehicles Using Horn Sound Analysis: A Deep Learning-Based Approach,"* **2024 23rd IEEE INFOTEH-JAHORINA**, Mar. 2024. $\rightarrow$ [DOI Link](https://doi.org/10.1109/INFOTEH60418.2024.10496018)
-3. **Md. S. Hasan and A. Jawad**, *"The Potential of Agrophotovoltaics in Sustainable Energy Generation: A Case Study in Bangladesh,"* **2024 5th IEEE CIEES**, Nov. 2024. $\rightarrow$ [DOI Link](https://doi.org/10.1109/CIEES62939.2024.10811224)
-4. **Md. S. Hasan, J. N. Anjuman, J. Ali, and A. Jawad**, *"Superconductors Application in Power Sector: a Review,"* **2024 IEEE BITCON**, Dec. 2024. $\rightarrow$ [DOI Link](https://doi.org/10.1109/bitcon63716.2024.10984453)
+<table>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/IF-10.9-7c3aed?style=flat-square" /><br/><sub><b>Q1</b></sub></td>
+    <td><b>Small-scale floating photovoltaic systems in university campus: A pathway to achieving SDG 7 goals in Bangladesh</b><br/><em>Energy Conversion and Management</em>, vol. 297, Dec. 2023<br/><sub>A. Jawad, <b>Md. S. Hasan</b>, Md. F. I. Faruqui, and N.-A.- Masood</sub><br/><a href="https://doi.org/10.1016/j.enconman.2023.117722"><img src="https://img.shields.io/badge/DOI-Link-blue?style=flat-square" /></a></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/IF-3.6-4f46e5?style=flat-square" /><br/><sub><b>Q1</b></sub></td>
+    <td><b>Techno-Economic and Environmental Analysis of Solar PV System at Sher-e-Bangla National Cricket Stadium</b><br/><em>IEEE Access</em>, vol. 13, 2025<br/><sub>M. A. I. Rafi, <b>Md. S. Hasan</b>, I.-U. Rashid, M. M. Hasan, et al.</sub><br/><a href="https://doi.org/10.1109/access.2025.3553636"><img src="https://img.shields.io/badge/DOI-Link-blue?style=flat-square" /></a></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/IF-3.6-4f46e5?style=flat-square" /><br/><sub><b>Q1</b></sub></td>
+    <td><b>Assessment of Greenhouse Gas Emissions and Mitigation Strategies for a University in Bangladesh</b><br/><em>IEEE Access</em>, vol. 13, Jan. 2025<br/><sub>M. Rasheduzzaman, <b>Md. S. Hasan</b>, N. A. Jahan, A. Jawad, and M. M. Hossain</sub><br/><a href="https://doi.org/10.1109/access.2025.3605517"><img src="https://img.shields.io/badge/DOI-Link-blue?style=flat-square" /></a></td>
+  </tr>
+</table>
 
----
+### 🏛️ IEEE Conference Proceedings
 
-## 🛠️ Complete Engineering Projects
+<table>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/IEEE-ICPS-6366f1?style=flat-square" /></td>
+    <td><b>Clean Hydrogen Production from Floating Photovoltaics: Dhanmondi Lake Case Study</b><br/><sub><b>Md. S. Hasan</b> and A. Jawad · ICPS 2023</sub> · <a href="https://doi.org/10.1109/icps60393.2023.10428710"><img src="https://img.shields.io/badge/DOI-Link-blue?style=flat-square" /></a></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/IEEE-INFOTEH-6366f1?style=flat-square" /></td>
+    <td><b>Exploring Classification of Vehicles Using Horn Sound Analysis: A Deep Learning Approach</b><br/><sub>M. A. I. Rafi, M. R. Sohan, <b>Md. S. Hasan</b>, et al. · INFOTEH 2024</sub> · <a href="https://doi.org/10.1109/INFOTEH60418.2024.10496018"><img src="https://img.shields.io/badge/DOI-Link-blue?style=flat-square" /></a></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/IEEE-CIEES-6366f1?style=flat-square" /></td>
+    <td><b>The Potential of Agrophotovoltaics in Sustainable Energy Generation: Bangladesh Case Study</b><br/><sub><b>Md. S. Hasan</b> and A. Jawad · CIEES 2024</sub> · <a href="https://doi.org/10.1109/CIEES62939.2024.10811224"><img src="https://img.shields.io/badge/DOI-Link-blue?style=flat-square" /></a></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/IEEE-BITCON-6366f1?style=flat-square" /></td>
+    <td><b>Superconductors Application in Power Sector: a Review</b><br/><sub><b>Md. S. Hasan</b>, J. N. Anjuman, J. Ali, and A. Jawad · BITCON 2024</sub> · <a href="https://doi.org/10.1109/bitcon63716.2024.10984453"><img src="https://img.shields.io/badge/DOI-Link-blue?style=flat-square" /></a></td>
+  </tr>
+</table>
 
-<details>
-<summary><strong>1. 🇬🇧 PEC Solar-to-Hydrogen Photoelectronic Device Simulation (King's College London)</strong></summary>
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-* **Description**: Simulated photoelectrochemical (PEC) solar-cell devices for solar-to-hydrogen energy conversion in COMSOL Multiphysics.
-* **Key Tasks**: Modeled hematite photoanodes, KOH electrolyte, and platinum counter-electrode layers. Defined optical, electrical, and electrochemical physics parameters.
-* **Tools**: COMSOL Multiphysics, OriginLab, Multiphysics Simulation.
-</details>
+## 🛠️ Engineering Projects
 
-<details>
-<summary><strong>2. 🔊 Vehicle Classification using Horn Sound Analysis & Deep Learning</strong></summary>
-<br>
+| # | Project | Tools | Highlights |
+|:-:|:--------|:------|:-----------|
+| 🇬🇧 | **PEC Solar-to-Hydrogen Device Simulation** *(King's College London)* | COMSOL Multiphysics, OriginLab | Modeled hematite photoanodes, KOH electrolyte, Pt counter-electrodes |
+| 🔊 | **Vehicle Classification via Horn Sound & Deep Learning** | Python, PyTorch, MATLAB | Spectrogram extraction, DNN classification of vehicle types |
+| ☀️ | **10kW Rooftop Solar PV Simulation** *(ULAB C-Building)* | PVSyst, SAM, Helioscope | Techno-economic feasibility for campus energy independence |
+| 🔌 | **10-Story Building Electrical System Design** | AutoCAD Electrical | Full power distribution layout & wiring configuration |
+| 🏥 | **IoT-Based Health Monitoring System** | C, Proteus, Microcontrollers | Real-time vital sign monitoring with alert dispatch |
+| 🧠 | **EMG Signal Classification** | MATLAB, Signal Processing | Feature extraction & classification of muscle signals |
+| ⚡ | **Auto Cutoff Battery Charger Circuit** | PSpice, Proteus, BJT/Diode | Automatic overcharge protection circuit design |
+| 💻 | **Student Management System** | C Programming, File I/O | Enrollment, record management, GPA computation |
 
-* **Description**: Published deep learning research on classifying vehicle types based on audio horn acoustic spectrum analysis.
-* **Key Tasks**: Collected field audio dataset, extracted spectrogram vectors, trained deep neural network models, and evaluated classification accuracy.
-* **Tools**: Python, PyTorch, MATLAB, Audio Signal Processing.
-</details>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<details>
-<summary><strong>3. ☀️ 10kW Rooftop Solar System Simulation (ULAB C-Building)</strong></summary>
-<br>
+## 🌱 Co-Curricular & Leadership
 
-* **Description**: Simulated techno-economic potential of a 10kW rooftop solar PV system for university infrastructure energy independence.
-* **Tools**: PVSyst, SAM (System Advisor Model), Helioscope.
-</details>
+| Role | Organization | Highlights |
+|:-----|:-------------|:-----------|
+| 🌍 **Founder** | *Protect Earth Initiative* | Educating youth on UN SDGs, environmental conservation & health |
+| ⚡ **Vice President & Finance Secretary** | *ULAB Electronics & Robotics Club* | National Robotics Competitions, seminars, budget management |
+| 🌐 **Member** | *IEEE* | International seminars, workshops, professional networks |
+| 🤝 **Member** | *OneULAB* | Humanitarian flood relief in Noakhali, Bangladesh |
+| ⚽ **Midfielder (#8)** | *ULAB EEE Powerhouse Football Team* | Department representative in university tournaments |
 
-<details>
-<summary><strong>4. 🔌 10th Floor Building Electrical System Configuration</strong></summary>
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-* **Description**: Comprehensive electrical power distribution layout and wiring configuration for a 10-story high-rise building.
-* **Tools**: AutoCAD Electrical, Building Wiring Standards.
-</details>
+## 🏆 Awards & Peer Reviewer Roles
 
-<details>
-<summary><strong>5. 🏥 IoT-Based Health Monitoring System Simulation & Design</strong></summary>
-<br>
+<div align="center">
 
-* **Description**: Designed an IoT sensor network to continuously monitor vital health parameters (heart rate, temperature) with real-time alert dispatch.
-* **Tools**: C, Microcontrollers, Proteus Circuit Simulation, IoT Sensors.
-</details>
+<img src="https://img.shields.io/badge/🏆%20Second%20Runner--Up-Best%20Capstone%20Project%202025-7c3aed?style=for-the-badge&labelColor=1a1b27" />
+<img src="https://img.shields.io/badge/🥇%20Champion-Poster%20Presentation%20Summer%202023-4f46e5?style=for-the-badge&labelColor=1a1b27" />
+<img src="https://img.shields.io/badge/🥈%20Second%20Runner--Up-Poster%20Presentation%20Spring%202023-6366f1?style=for-the-badge&labelColor=1a1b27" />
 
-<details>
-<summary><strong>6. 🧠 EMG Signal Classification using MATLAB</strong></summary>
-<br>
+</div>
 
-* **Description**: Analyzed electromyography (EMG) muscle signals and implemented feature extraction and classification algorithms.
-* **Tools**: MATLAB, Signal Processing Toolbox, Feature Extraction.
-</details>
+<br/>
 
-<details>
-<summary><strong>7. ⚡ Auto Cutoff Battery Charger Circuit Design</strong></summary>
-<br>
-
-* **Description**: Designed and hardware-simulated an automatic overcharge protection cutoff charger using discrete BJT transistors and Diodes.
-* **Tools**: Discrete Semiconductors (BJT, Diode), PSpice / Proteus Simulation.
-</details>
-
-<details>
-<summary><strong>8. 💻 Student Management System in C</strong></summary>
-<br>
-
-* **Description**: Built a file-driven student database management system handling enrollment, record manipulation, and GPA computation.
-* **Tools**: C Programming, Data Structures, File I/O.
-</details>
-
----
-
-## 🌱 Co-Curricular & Extra-Curricular Activities
-
-* 🌍 **Founder — Protect Earth Initiative**: Founded an educational initiative teaching youth about UN Sustainable Development Goals (SDGs), environmental conservation, and health.
-* ⚡ **Former Vice President & Finance Secretary — ULAB Electronics & Robotics Club**: Organized academic seminars, National Robotics Competitions, club workshops, and managed overall financial budgets.
-* 🌐 **Member — IEEE**: Proactively engaged in international IEEE seminars, technical workshops, and professional engineering networks.
-* 🤝 **Member — OneULAB**: Led humanitarian relief outreach supporting flood-affected communities in Noakhali, Bangladesh.
-* ⚽ **Footballer — ULAB EEE Powerhouse Team**: Midfielder (#8) representing the EEE department in university tournaments.
+**Peer Reviewer for:**
+* 📄 *Engineering, Technology & Applied Science Research (ETASR)* **[Q2, IF: 1.5]**
+* 📄 *Intl. Conference on AI, Computer, Data Sciences & Applications (ACDSA)*
+* 📄 *Intl. Conference on Electrical and Computer Engineering Researches (ICECER)*
 
 ---
 
-## 🏆 Honors, Awards & Academic Reviewer Roles
+<div align="center">
 
-### Awards & Achievements
-* 🏆 **Second Runner-Up** — Best Capstone Project (2025)
-* 🥇 **Champion** — Departmental Poster Presentation (Summer 2023)
-* 🥈 **Second Runner-Up** — Departmental Poster Presentation (Spring 2023)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=4000&pause=2000&color=6366F1&center=true&vCenter=true&width=500&height=30&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Let's+collaborate+on+research+%F0%9F%94%AC" alt="Footer" />
 
-### Peer Reviewer for Journals & Conferences
-* 📄 **Reviewer** — *Engineering, Technology & Applied Science Research (ETASR)* **[Q2, IF: 1.5]**
-* 📄 **Reviewer** — *International Conference on Artificial Intelligence, Computer, Data Sciences, and Applications (ACDSA)*
-* 📄 **Reviewer** — *International Conference on Electrical and Computer Engineering Researches (ICECER)*
+<sub>Profile crafted for <b>Md. Sajid Hasan (@sejansajid)</b></sub>
 
----
-
-<p align="center">
-  <sub>Profile Designed for <b>Md. Sajid Hasan (@sejansajid)</b></sub>
-</p>
+</div>
