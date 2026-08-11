@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:a855f7,100:6366f1&height=220&section=header&text=Md.%20Sajid%20Hasan&fontSize=50&fontAlign=50&fontAlignY=36&animation=twinkling&desc=EEE%20Researcher%20%7C%20Solar%20PV%20%26%20Hydrogen%20%7C%20Applied%20AI&descSize=20&descAlign=50&descAlignY=62" alt="Electrifying Header Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:4f46e5&height=200&section=header&text=Md.%20Sajid%20Hasan&fontSize=48&fontAlign=50&fontAlignY=38&animation=fadeIn&desc=EEE%20Researcher%20%7C%20Solar%20PV%20%26%20Green%20Hydrogen&descSize=18&descAlign=50&descAlignY=62" alt="Header Banner" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=850&height=45&lines=⚡+EEE+Researcher+Specializing+in+Solar+PV+%26+Green+Hydrogen;🔬+Photoelectronic+Devices+Simulation+Intern+@+King's+College+London;📚+3%C3%97+Q1+Journal+Publications+%7C+4%C3%97+IEEE+Conference+Papers;🤖+Applied+AI+%26+Deep+Learning+for+Energy+Systems;🏆+Capstone+Project+Awardee+%7C+ULAB+EEE+Graduate+(CGPA+3.87)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=800&height=40&lines=EEE+Researcher+in+Solar+PV+%26+Green+Hydrogen;Photoelectronic+Devices+Simulation+Intern;3x+Q1+Journal+Publications+%7C+4x+IEEE+Conference+Papers;Applied+AI+%26+Deep+Learning+for+Energy+Systems" alt="Typing SVG" />
   </a>
 </p>
 
@@ -201,13 +201,6 @@ I am an **Electrical & Electronic Engineering (EEE)** researcher specializing in
 
 ---
 
-## 📊 GitHub Analytics
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sejansajid&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sejansajid&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <sub>Electrifying Profile Designed for <b>Md. Sajid Hasan (@sejansajid)</b></sub>
+  <sub>Profile Designed for <b>Md. Sajid Hasan (@sejansajid)</b></sub>
 </p>
