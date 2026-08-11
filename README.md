@@ -1,39 +1,69 @@
-<h1 align="center">⚡ Md. Sajid Hasan ⚡</h1>
+<!--
+  ════════════════════════════════════════════════════════════════════════
+  📌 GITHUB PROFILE README  —  Md. Sajid Hasan (@sejansajid)
+  ════════════════════════════════════════════════════════════════════════
+-->
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=800&height=40&lines=EEE+Researcher+in+Solar+PV+%26+Green+Hydrogen;Photoelectronic+Devices+Simulation+Intern;3x+Q1+Journal+Publications+%7C+4x+IEEE+Conference+Papers;Applied+AI+%26+Deep+Learning+for+Energy+Systems" alt="Typing SVG" />
-  </a>
-</p>
+<!-- ═══════════════════ INTRO HERO SECTION ═══════════════════ -->
 
-<p align="center">
-  <img src="https://img.shields.io/badge/B.Sc.%20in%20EEE%20(Electronics)-ULAB-7c3aed?style=flat-square" alt="Education" />
-  <img src="https://img.shields.io/badge/CGPA-3.87%2F4.00-4f46e5?style=flat-square" alt="CGPA" />
-  <img src="https://img.shields.io/badge/Location-Dhaka,%20Bangladesh-6366f1?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://sites.google.com/view/mdsajidhasan" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/md-sajid-hasan-469919280/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-6366f1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:sajid.hasan.eee@ulab.edu.bd">
-    <img src="https://img.shields.io/badge/Email-4f46e5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://shorturl.at/8pxD3" target="_blank">
-    <img src="https://img.shields.io/badge/Google%20Scholar-312e81?style=for-the-badge&logo=google&logoColor=white" alt="Scholar" />
-  </a>
-</p>
+<!-- GREETING WAVE -->
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" alt="wave"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sejansajid&label=Profile%20views&color=a855f7&style=flat-square" alt="Views" />
-  <img src="https://img.shields.io/github/followers/sejansajid?label=Followers&color=6366f1&style=flat-square" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/sejansajid?label=Stars&color=4f46e5&style=flat-square" alt="Stars" />
-</p>
+<!-- BIG BOLD NAME -->
+# Hi, I'm **Md. Sajid Hasan**
 
----
+<!-- ANIMATED TYPING ROLES -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=80&lines=EEE+Researcher+%7C+Renewable+Energy+%26+Solar+PV;Research+Intern+%40+King's+College+London%2C+UK" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- KEY ACHIEVEMENT BADGES — EYE-CATCHING -->
+<img src="https://img.shields.io/badge/📚%20Publications-3x%20Q1%20Journals%20+%204x%20IEEE-7c3aed?style=for-the-badge&labelColor=1a1b27" alt="Publications" />
+<img src="https://img.shields.io/badge/🇬🇧%20Research%20Intern-King's%20College%20London-4f46e5?style=for-the-badge&labelColor=1a1b27" alt="KCL" />
+<img src="https://img.shields.io/badge/🎓%20CGPA-3.87%20%2F%204.00-6366f1?style=for-the-badge&labelColor=1a1b27" alt="CGPA" />
+
+<br/><br/>
+
+<!-- INFO PILLS -->
+<img src="https://img.shields.io/badge/B.Sc.%20in%20EEE%20(Electronics)-ULAB-7c3aed?style=flat-square" alt="Education" />
+<img src="https://img.shields.io/badge/Location-Dhaka,%20Bangladesh-6366f1?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+<img src="https://img.shields.io/badge/IELTS-7.0-a855f7?style=flat-square" alt="IELTS" />
+
+<br/><br/>
+
+<!-- SOCIAL & PORTFOLIO LINKS -->
+<a href="https://sites.google.com/view/mdsajidhasan" target="_blank">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-7c3aed?style=for-the-badge&logoColor=white" alt="Portfolio" />
+</a>&nbsp;
+<a href="https://linkedin.com/in/md-sajid-hasan-469919280/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>&nbsp;
+<a href="mailto:sajid.hasan.eee@ulab.edu.bd">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>&nbsp;
+<a href="https://shorturl.at/8pxD3" target="_blank">
+  <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Scholar" />
+</a>
+
+<br/><br/>
+
+<!-- PROFILE COUNTERS -->
+<img src="https://komarev.com/ghpvc/?username=sejansajid&label=Profile%20views&color=a855f7&style=flat-square" alt="Views" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/sejansajid?label=Followers&color=6366f1&style=flat-square" alt="Followers" />
+&nbsp;
+<img src="https://img.shields.io/github/stars/sejansajid?label=Stars&color=4f46e5&style=flat-square" alt="Stars" />
+
+</div>
+
+<!-- VISUAL SEPARATOR LINE -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+
 
 ## 🔬 Executive Overview & About Me
 
