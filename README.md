@@ -1,6 +1,8 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:4f46e5&height=200&section=header&text=Md.%20Sajid%20Hasan&fontSize=48&fontAlign=50&fontAlignY=38&animation=fadeIn&desc=EEE%20Researcher%20%7C%20Solar%20PV%20%26%20Green%20Hydrogen&descSize=18&descAlign=50&descAlignY=62" alt="Header Banner" />
-</p>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=40&duration=4000&pause=1000&color=7C3AED&center=true&vCenter=true&width=800&height=65&lines=⚡+Md.+Sajid+Hasan;⚡+Md.+Sajid+Hasan" alt="Md. Sajid Hasan" />
+  </a>
+</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
