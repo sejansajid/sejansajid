@@ -10,7 +10,6 @@
   <img src="https://img.shields.io/badge/B.Sc.%20in%20EEE%20(Electronics)-ULAB-7c3aed?style=flat-square" alt="Education" />
   <img src="https://img.shields.io/badge/CGPA-3.87%2F4.00-4f46e5?style=flat-square" alt="CGPA" />
   <img src="https://img.shields.io/badge/Location-Dhaka,%20Bangladesh-6366f1?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/IELTS-7.0-a855f7?style=flat-square" alt="IELTS" />
 </p>
 
 <p align="center">
