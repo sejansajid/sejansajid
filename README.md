@@ -166,26 +166,44 @@
 | Agrophotovoltaics in Sustainable Energy — Bangladesh | *IEEE CIEES* | 2024 | <a href="https://doi.org/10.1109/CIEES62939.2024.10811224"><img src="https://api.juleskreuer.eu/citation-badge.php?doi=10.1109/CIEES62939.2024.10811224" alt="Citations"/></a> |
 | Superconductors Application in Power Sector | *IEEE BITCON* | 2024 | <a href="https://doi.org/10.1109/bitcon63716.2024.10984453"><img src="https://api.juleskreuer.eu/citation-badge.php?doi=10.1109/bitcon63716.2024.10984453" alt="Citations"/></a> |
 
-### 📈 Impact Factor Distribution
+### 📊 Paper-wise Citation Graph
 
-```
-  Journal / Venue                      Impact Factor
-  ─────────────────────────────────────────────────────────────
-  Energy Conversion & Management  ██████████████████████ 10.9  ⭐ Q1
-  IEEE Access (Paper 1)           ███████▎               3.6   ⭐ Q1
-  IEEE Access (Paper 2)           ███████▎               3.6   ⭐ Q1
-  IEEE ICPS 2023                  ████▌                  Scopus
-  IEEE INFOTEH 2024               ████▌                  Scopus
-  IEEE CIEES 2024                 ████▌                  Scopus
-  IEEE BITCON 2024                ████▌                  Scopus
+<div align="center">
+<img src="https://quickchart.io/chart?w=700&h=400&bkg=%231a1b27&c=%7Btype%3A%27bar%27%2Cdata%3A%7Blabels%3A%5B%27Floating%20PV%5Cn(ECM%202023)%27%2C%27PV%20Stadium%5Cn(IEEE%20Access)%27%2C%27GHG%20Emissions%5Cn(IEEE%20Access)%27%2C%27H2%20from%20FPV%5Cn(ICPS%202023)%27%2C%27Horn%20Sound%5Cn(INFOTEH)%27%2C%27AgroPV%5Cn(CIEES)%27%2C%27Superconductors%5Cn(BITCON)%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Google%20Scholar%20Citations%27%2Cdata%3A%5B34%2C12%2C3%2C4%2C10%2C1%2C1%5D%2CbackgroundColor%3A%5B%27rgba(124%2C58%2C237%2C0.9)%27%2C%27rgba(79%2C70%2C229%2C0.9)%27%2C%27rgba(99%2C102%2C241%2C0.9)%27%2C%27rgba(124%2C58%2C237%2C0.7)%27%2C%27rgba(79%2C70%2C229%2C0.7)%27%2C%27rgba(99%2C102%2C241%2C0.7)%27%2C%27rgba(168%2C85%2C247%2C0.7)%27%5D%2CborderColor%3A%5B%27%237c3aed%27%2C%27%234f46e5%27%2C%27%236366f1%27%2C%27%237c3aed%27%2C%27%234f46e5%27%2C%27%236366f1%27%2C%27%23a855f7%27%5D%2CborderWidth%3A2%2CborderRadius%3A6%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Btitle%3A%7Bdisplay%3Atrue%2Ctext%3A%27Citation%20Distribution%20by%20Paper%20(Total%3A%2065)%27%2Cfont%3A%7Bsize%3A16%2Cweight%3A%27bold%27%7D%2Ccolor%3A%27%23e2e8f0%27%7D%2Clegend%3A%7Blabels%3A%7Bcolor%3A%27%23e2e8f0%27%7D%7D%2Cdatalabels%3A%7Banchor%3A%27end%27%2Calign%3A%27top%27%2Ccolor%3A%27%23e2e8f0%27%2Cfont%3A%7Bweight%3A%27bold%27%2Csize%3A14%7D%7D%7D%2Cscales%3A%7Bx%3A%7Bticks%3A%7Bcolor%3A%27%23a0aec0%27%2Cfont%3A%7Bsize%3A10%7D%7D%2Cgrid%3A%7Bcolor%3A%27rgba(255%2C255%2C255%2C0.05)%27%7D%7D%2Cy%3A%7Bticks%3A%7Bcolor%3A%27%23a0aec0%27%2CstepSize%3A5%7D%2Cgrid%3A%7Bcolor%3A%27rgba(255%2C255%2C255%2C0.08)%27%7D%2Ctitle%3A%7Bdisplay%3Atrue%2Ctext%3A%27Citations%27%2Ccolor%3A%27%23e2e8f0%27%7D%7D%7D%7D%7D" alt="Citation Graph" />
+</div>
+
+### 📈 Impact Factor & Publication Timeline
+
+```mermaid
+---
+config:
+  theme: dark
+  xyChart:
+    titleFontSize: 16
+    plotColorPalette: "#7c3aed,#4f46e5,#6366f1,#a855f7,#8b5cf6,#7c3aed,#4f46e5"
+---
+xychart-beta
+  title "Impact Factor by Publication"
+  x-axis ["ECM 2023", "IEEE Access #1", "IEEE Access #2", "ICPS 2023", "INFOTEH 2024", "CIEES 2024", "BITCON 2024"]
+  y-axis "Impact Factor" 0 --> 12
+  bar [10.9, 3.6, 3.6, 2.0, 2.0, 2.0, 2.0]
 ```
 
-### 📅 Publication Timeline
+### 📅 Publication Output by Year
 
-```
-  2023  ████████████  2 papers  (1 Q1 Journal + 1 IEEE Conference)
-  2024  ██████████████████  3 papers  (3 IEEE Conferences)
-  2025  ████████████  2 papers  (2 Q1 Journals)
+```mermaid
+---
+config:
+  theme: dark
+  xyChart:
+    titleFontSize: 16
+    plotColorPalette: "#7c3aed"
+---
+xychart-beta
+  title "Papers Published Per Year"
+  x-axis ["2023", "2024", "2025"]
+  y-axis "Papers" 0 --> 4
+  bar [2, 3, 2]
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
