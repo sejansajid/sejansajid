@@ -55,7 +55,7 @@ I am an **Electrical & Electronic Engineering (EEE)** researcher specializing in
 ### Programming & Scientific Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,matlab,c,git,github,vscode,autocad" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=py,,matlab,c,git,github,comsol,autocad" alt="Tech Stack" />
   </a>
 </p>
 
