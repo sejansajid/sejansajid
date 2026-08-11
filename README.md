@@ -4,66 +4,95 @@
   ════════════════════════════════════════════════════════════════════════
 -->
 
-<!-- ═══════════════════ CREATIVE ACADEMIC HERO CONSOLE ═══════════════════ -->
+<!-- ═══════════════════ MAIN GRAPHIC BANNER ═══════════════════ -->
 
-<table width="100%">
-  <tr>
-    <!-- LEFT COLUMN: RESEARCH IDENTITY & LINKS -->
-    <td width="55%" valign="top">
-      <h2>⚡ Md. Sajid Hasan</h2>
-      <p><b>Electrical & Electronic Engineering Researcher</b></p>
-      
-      <p>
-        🔬 <b>Research Intern</b> @ <i>King's College London, UK</i><br/>
-        🎓 <b>B.Sc. in EEE</b> @ <i>University of Liberal Arts Bangladesh (ULAB)</i>
-      </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,36&height=220&section=header&text=Md.%20Sajid%20Hasan&fontSize=52&fontColor=A855F7&animation=twinkling&desc=Electrical%20%26%20Electronic%20Engineering%20Researcher&descSize=18&descAlignY=70&descAlign=50" width="100%" alt="Header Banner" />
+</p>
 
-      <!-- ANIMATED TYPING RESEARCH FOCUS -->
-      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=3000&pause=1000&color=7C3AED&multiline=false&width=450&height=28&lines=Solar+PV+%7C+Green+Hydrogen+%7C+Device+Simulation;3x+Q1+Journals+%7C+4x+IEEE+Conference+Papers;Deep+Learning+for+Microgrids+%26+Energy+Systems" alt="Research Focus" />
-      </a>
+<!-- MONOSPACE SUB-CAPTION -->
+<h3 align="center">
+  <samp>
+    &gt; Hello World! I am <b><a target="_blank" href="https://sites.google.com/view/mdsajidhasan">Md. Sajid Hasan</a></b> ⚡
+  </samp>
+</h3>
 
-      <br/><br/>
+<p align="center">
+  <samp>
+    「 EEE Researcher Specializing in Solar PV, Green Hydrogen & Device Simulation 」
+  </samp>
+</p>
 
-      <!-- DIRECT ACTION BUTTONS -->
-      <a href="https://sites.google.com/view/mdsajidhasan" target="_blank">
-        <img src="https://img.shields.io/badge/🌐%20Portfolio-7c3aed?style=flat-square&logoColor=white" alt="Portfolio" />
-      </a>&nbsp;
-      <a href="https://shorturl.at/8pxD3" target="_blank">
-        <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Scholar" />
-      </a>&nbsp;
-      <a href="https://linkedin.com/in/md-sajid-hasan-469919280/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-      </a>&nbsp;
-      <a href="mailto:sajid.hasan.eee@ulab.edu.bd">
-        <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-      </a>
-    </td>
+<!-- ANIMATED TYPING SUBTITLE -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1200&color=7C3AED&center=true&vCenter=true&width=850&height=45&lines=Photoelectronic+Device+Simulation+Intern+%40+King's+College+London%2C+UK;3x+Q1+Journal+Publications+%7C+4x+IEEE+Conference+Papers;B.Sc.+in+EEE+(Electronics)+%7C+CGPA+3.87+%2F+4.00;Applied+AI+%26+Deep+Learning+for+Energy+Systems" alt="Typing SVG" />
+  </a>
+</p>
 
-    <!-- RIGHT COLUMN: RESEARCH SNAPSHOT & METRICS PANEL -->
-    <td width="45%" valign="top" align="center">
-      <p><b>📊 Research Snapshot</b></p>
-      <img src="https://img.shields.io/badge/📚%20Publications-3x%20Q1%20+%204x%20IEEE-7c3aed?style=for-the-badge&labelColor=1a1b27" alt="Publications" /><br/><br/>
-      <img src="https://img.shields.io/badge/🏛️%20Internship-King's%20College%20London-4f46e5?style=for-the-badge&labelColor=1a1b27" alt="KCL" /><br/><br/>
-      <img src="https://img.shields.io/badge/🎓%20Academic%20CGPA-3.87%20%2F%204.00-6366f1?style=for-the-badge&labelColor=1a1b27" alt="CGPA" /><br/><br/>
-      <img src="https://img.shields.io/badge/Location-Dhaka,%20Bangladesh-6366f1?style=flat-square&logo=googlemaps&logoColor=white" />
-      <img src="https://img.shields.io/badge/IELTS-7.0-a855f7?style=flat-square" /><br/><br/>
-      <img src="https://komarev.com/ghpvc/?username=sejansajid&label=Views&color=a855f7&style=flat-square" />
-      <img src="https://img.shields.io/github/followers/sejansajid?label=Followers&color=6366f1&style=flat-square" />
-    </td>
-  </tr>
-</table>
+<br/>
 
-<!-- VISUAL SEPARATOR LINE -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- KEY HIGHLIGHT BADGES -->
+<p align="center">
+  <img src="https://img.shields.io/badge/🏛️%20Research%20Intern-King's%20College%20London-4f46e5?style=for-the-badge&labelColor=1a1b27" alt="KCL" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/📚%20Publications-3x%20Q1%20+%204x%20IEEE-7c3aed?style=for-the-badge&labelColor=1a1b27" alt="Publications" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/🎓%20Academic%20CGPA-3.87%20%2F%204.00-6366f1?style=for-the-badge&labelColor=1a1b27" alt="CGPA" />
+</p>
 
+<br/>
 
+<!-- DIRECT ACTION BUTTONS & CHANNELS -->
+<p align="center">
+  <a href="https://sites.google.com/view/mdsajidhasan" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-7c3aed?style=flat-square&logoColor=white" alt="Portfolio" />
+  </a>&nbsp;
+  <a href="https://shorturl.at/8pxD3" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Scholar" />
+  </a>&nbsp;
+  <a href="https://linkedin.com/in/md-sajid-hasan-469919280/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;
+  <a href="mailto:sajid.hasan.eee@ulab.edu.bd">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
+<!-- PROFILE METRICS & LOCATION -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sejansajid&label=Profile%20Views&color=a855f7&style=flat-square" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/sejansajid?label=Followers&color=6366f1&style=flat-square" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Location-Dhaka,%20Bangladesh-6366f1?style=flat-square&logo=googlemaps&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/IELTS-7.0-a855f7?style=flat-square" />
+</p>
 
+<!-- INTERACTIVE COLLAPSIBLE QUICK SUMMARY CARDS -->
+<details>
+<summary><strong>⚡ Click to Expand Quick Research Profile & Specs</strong></summary>
+<br>
 
-## 🔬 About Me
+> **Research Focus**: Photoelectrochemical (PEC) Solar Cells, Green Hydrogen, Microgrid Energy Systems, Multiphysics Simulation (COMSOL Multiphysics, SCAPS-1D).
+> **Publication Impact**: 3× Q1 Journals (*Energy Conv. & Mgmt.* IF: 10.9, *IEEE Access* IF: 3.6) + 4× International IEEE Conference Proceedings.
 
-> *Electrical & Electronic Engineering researcher pushing the boundaries of solar photovoltaics, green hydrogen, and applied AI — from simulation to real-world impact.*
+</details>
+
+<!-- ANIMATED CYBER CYCLE DIVIDER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg" width="100%" alt="cyber divider" />
+</p>
+
+<!-- ═══════════════════ SECTION: ABOUT ME ═══════════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=50&section=header&text=🔬%20About%20Me&fontSize=22&fontColor=ffffff" width="100%" alt="About Me Header" />
+</p>
+
+<blockquote>
+  <em>Electrical & Electronic Engineering researcher pushing the boundaries of solar photovoltaics, green hydrogen, and applied AI — from simulation to real-world impact.</em>
+</blockquote>
 
 * 🏛️ **Education** — B.Sc. in EEE (Major in Electronics), **ULAB** — **CGPA 3.87 / 4.00**
 * 🔬 **Research Intern** — Photoelectronic Devices Simulation @ **King's College London, UK**
@@ -72,7 +101,10 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 💼 Professional Experience
+<!-- ═══════════════════ SECTION: PROFESSIONAL EXPERIENCE ═══════════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=4F46E5&height=50&section=header&text=💼%20Professional%20Experience&fontSize=22&fontColor=ffffff" width="100%" alt="Professional Experience Header" />
+</p>
 
 <table>
   <tr>
@@ -108,7 +140,10 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 💻 Technical & Simulation Stack
+<!-- ═══════════════════ SECTION: TECH STACK ═══════════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=6366F1&height=50&section=header&text=💻%20Technical%20%26%20Simulation%20Stack&fontSize=22&fontColor=ffffff" width="100%" alt="Tech Stack Header" />
+</p>
 
 <div align="center">
 
@@ -135,7 +170,10 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 Citation Impact & Publication Metrics
+<!-- ═══════════════════ SECTION: CITATION IMPACT ═══════════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=9333EA&height=50&section=header&text=📊%20Citation%20Impact%20%26%20Publication%20Metrics&fontSize=22&fontColor=ffffff" width="100%" alt="Citation Impact Header" />
+</p>
 
 <div align="center">
 
@@ -181,7 +219,10 @@ xychart-beta
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📑 Research Publications
+<!-- ═══════════════════ SECTION: RESEARCH PUBLICATIONS ═══════════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=50&section=header&text=📑%20Research%20Publications&fontSize=22&fontColor=ffffff" width="100%" alt="Research Publications Header" />
+</p>
 
 ### 📰 Q1 Journal Articles
 
@@ -223,7 +264,10 @@ xychart-beta
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🛠️ Engineering Projects
+<!-- ═══════════════════ SECTION: ENGINEERING PROJECTS ═══════════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=4F46E5&height=50&section=header&text=🛠️%20Engineering%20Projects&fontSize=22&fontColor=ffffff" width="100%" alt="Engineering Projects Header" />
+</p>
 
 | # | Project | Tools | Highlights |
 |:-:|:--------|:------|:-----------|
@@ -238,7 +282,10 @@ xychart-beta
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🌱 Co-Curricular & Leadership
+<!-- ═══════════════════ SECTION: CO-CURRICULAR ═══════════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=6366F1&height=50&section=header&text=🌱%20Co-Curricular%20%26%20Leadership&fontSize=22&fontColor=ffffff" width="100%" alt="Co-Curricular Header" />
+</p>
 
 | Role | Organization | Highlights |
 |:-----|:-------------|:-----------|
@@ -250,7 +297,10 @@ xychart-beta
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🏆 Awards & Peer Reviewer Roles
+<!-- ═══════════════════ SECTION: AWARDS & REVIEWS ═══════════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=9333EA&height=50&section=header&text=🏆%20Awards%20%26%20Peer%20Reviewer%20Roles&fontSize=22&fontColor=ffffff" width="100%" alt="Awards Header" />
+</p>
 
 <div align="center">
 
