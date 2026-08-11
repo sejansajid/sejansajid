@@ -6,16 +6,16 @@
 
 <!-- ═══════════════════ CREATIVE ACADEMIC HERO CONSOLE ═══════════════════ -->
 
-<table width="100%" border="0">
+<table width="100%">
   <tr>
     <!-- LEFT COLUMN: RESEARCH IDENTITY & LINKS -->
-    <td width="58%" valign="top">
-      <h1>⚡ Md. Sajid Hasan</h1>
-      <p><strong>Electrical & Electronic Engineering Researcher</strong></p>
+    <td width="55%" valign="top">
+      <h2>⚡ Md. Sajid Hasan</h2>
+      <p><b>Electrical & Electronic Engineering Researcher</b></p>
       
       <p>
-        🔬 <strong>Research Intern</strong> @ <em>King's College London, UK</em><br/>
-        🎓 <strong>B.Sc. in EEE</strong> @ <em>University of Liberal Arts Bangladesh (ULAB)</em>
+        🔬 <b>Research Intern</b> @ <i>King's College London, UK</i><br/>
+        🎓 <b>B.Sc. in EEE</b> @ <i>University of Liberal Arts Bangladesh (ULAB)</i>
       </p>
 
       <!-- ANIMATED TYPING RESEARCH FOCUS -->
@@ -41,39 +41,22 @@
     </td>
 
     <!-- RIGHT COLUMN: RESEARCH SNAPSHOT & METRICS PANEL -->
-    <td width="42%" valign="top" align="center">
-      <table width="100%">
-        <tr>
-          <td align="center">
-            <strong>📊 Research Snapshot</strong>
-          </td>
-        </tr>
-        <tr>
-          <td align="center">
-            <img src="https://img.shields.io/badge/📚%20Publications-3x%20Q1%20+%204x%20IEEE-7c3aed?style=for-the-badge&labelColor=1a1b27" width="100%" alt="Publications" /><br/>
-            <img src="https://img.shields.io/badge/🏛️%20Internship-King's%20College%20London-4f46e5?style=for-the-badge&labelColor=1a1b27" width="100%" alt="KCL" /><br/>
-            <img src="https://img.shields.io/badge/🎓%20Academic%20CGPA-3.87%20%2F%204.00-6366f1?style=for-the-badge&labelColor=1a1b27" width="100%" alt="CGPA" />
-          </td>
-        </tr>
-        <tr>
-          <td align="center">
-            <img src="https://img.shields.io/badge/Location-Dhaka,%20Bangladesh-6366f1?style=flat-square&logo=googlemaps&logoColor=white" />
-            <img src="https://img.shields.io/badge/IELTS-7.0-a855f7?style=flat-square" />
-          </td>
-        </tr>
-        <tr>
-          <td align="center">
-            <img src="https://komarev.com/ghpvc/?username=sejansajid&label=Views&color=a855f7&style=flat-square" />
-            <img src="https://img.shields.io/github/followers/sejansajid?label=Followers&color=6366f1&style=flat-square" />
-          </td>
-        </tr>
-      </table>
+    <td width="45%" valign="top" align="center">
+      <p><b>📊 Research Snapshot</b></p>
+      <img src="https://img.shields.io/badge/📚%20Publications-3x%20Q1%20+%204x%20IEEE-7c3aed?style=for-the-badge&labelColor=1a1b27" alt="Publications" /><br/><br/>
+      <img src="https://img.shields.io/badge/🏛️%20Internship-King's%20College%20London-4f46e5?style=for-the-badge&labelColor=1a1b27" alt="KCL" /><br/><br/>
+      <img src="https://img.shields.io/badge/🎓%20Academic%20CGPA-3.87%20%2F%204.00-6366f1?style=for-the-badge&labelColor=1a1b27" alt="CGPA" /><br/><br/>
+      <img src="https://img.shields.io/badge/Location-Dhaka,%20Bangladesh-6366f1?style=flat-square&logo=googlemaps&logoColor=white" />
+      <img src="https://img.shields.io/badge/IELTS-7.0-a855f7?style=flat-square" /><br/><br/>
+      <img src="https://komarev.com/ghpvc/?username=sejansajid&label=Views&color=a855f7&style=flat-square" />
+      <img src="https://img.shields.io/github/followers/sejansajid?label=Followers&color=6366f1&style=flat-square" />
     </td>
   </tr>
 </table>
 
 <!-- VISUAL SEPARATOR LINE -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 
 
 
