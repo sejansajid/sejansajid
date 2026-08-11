@@ -70,7 +70,7 @@
 > *Electrical & Electronic Engineering researcher pushing the boundaries of solar photovoltaics, green hydrogen, and applied AI — from simulation to real-world impact.*
 
 * 🏛️ **Education** — B.Sc. in EEE (Major in Electronics), **ULAB** — **CGPA 3.87 / 4.00**
-* 🇬🇧 **Research Intern** — Photoelectronic Devices Simulation @ **King's College London, UK**
+* 🔬 **Research Intern** — Photoelectronic Devices Simulation @ **King's College London, UK**
 * 📚 **Track Record** — **3× Q1 Journal Articles** + **4× IEEE Conference Papers**
 * 🎯 **Interests** — `Solar PV` · `Green Hydrogen` · `Net-Zero Carbon` · `Deep Learning for Microgrids` · `Semiconductor Physics`
 
@@ -80,7 +80,7 @@
 
 <table>
   <tr>
-    <td width="80" align="center">🇬🇧</td>
+    <td width="80" align="center">🏛️</td>
     <td>
       <strong>Numerical Simulation of Photoelectronic Devices Intern</strong><br/>
       <em>King's College London (KCL), United Kingdom</em> · <code>Jun 2026 – Present</code><br/>
@@ -152,6 +152,20 @@
 
 <br/>
 
+### 🔴 Live Google Scholar Citation Tracker
+
+> *These citation counts update automatically from Google Scholar in real-time.*
+
+| Paper | Venue | Year | Live Citations |
+|:------|:------|:----:|:--------------:|
+| Floating PV Systems — SDG 7 Goals in Bangladesh | *Energy Conv. & Mgmt.* (IF: 10.9) | 2023 | <a href="https://doi.org/10.1016/j.enconman.2023.117722"><img src="https://api.juleskreuer.eu/citation-badge.php?doi=10.1016/j.enconman.2023.117722" alt="Citations"/></a> |
+| Solar PV at Sher-e-Bangla Cricket Stadium | *IEEE Access* (IF: 3.6) | 2025 | <a href="https://doi.org/10.1109/access.2025.3553636"><img src="https://api.juleskreuer.eu/citation-badge.php?doi=10.1109/access.2025.3553636" alt="Citations"/></a> |
+| GHG Emissions & Mitigation — University in Bangladesh | *IEEE Access* (IF: 3.6) | 2025 | <a href="https://doi.org/10.1109/access.2025.3605517"><img src="https://api.juleskreuer.eu/citation-badge.php?doi=10.1109/access.2025.3605517" alt="Citations"/></a> |
+| Clean Hydrogen from Floating PV — Dhanmondi Lake | *IEEE ICPS* | 2023 | <a href="https://doi.org/10.1109/icps60393.2023.10428710"><img src="https://api.juleskreuer.eu/citation-badge.php?doi=10.1109/icps60393.2023.10428710" alt="Citations"/></a> |
+| Vehicle Classification via Horn Sound — Deep Learning | *IEEE INFOTEH* | 2024 | <a href="https://doi.org/10.1109/INFOTEH60418.2024.10496018"><img src="https://api.juleskreuer.eu/citation-badge.php?doi=10.1109/INFOTEH60418.2024.10496018" alt="Citations"/></a> |
+| Agrophotovoltaics in Sustainable Energy — Bangladesh | *IEEE CIEES* | 2024 | <a href="https://doi.org/10.1109/CIEES62939.2024.10811224"><img src="https://api.juleskreuer.eu/citation-badge.php?doi=10.1109/CIEES62939.2024.10811224" alt="Citations"/></a> |
+| Superconductors Application in Power Sector | *IEEE BITCON* | 2024 | <a href="https://doi.org/10.1109/bitcon63716.2024.10984453"><img src="https://api.juleskreuer.eu/citation-badge.php?doi=10.1109/bitcon63716.2024.10984453" alt="Citations"/></a> |
+
 ### 📈 Impact Factor Distribution
 
 ```
@@ -183,15 +197,15 @@
 <table>
   <tr>
     <td align="center"><img src="https://img.shields.io/badge/IF-10.9-7c3aed?style=flat-square" /><br/><sub><b>Q1</b></sub></td>
-    <td><b>Small-scale floating photovoltaic systems in university campus: A pathway to achieving SDG 7 goals in Bangladesh</b><br/><em>Energy Conversion and Management</em>, vol. 297, Dec. 2023<br/><sub>A. Jawad, <b>Md. S. Hasan</b>, Md. F. I. Faruqui, and N.-A.- Masood</sub><br/><a href="https://doi.org/10.1016/j.enconman.2023.117722"><img src="https://img.shields.io/badge/DOI-Link-blue?style=flat-square" /></a></td>
+    <td><b>Small-scale floating photovoltaic systems in university campus: A pathway to achieving SDG 7 goals in Bangladesh</b><br/><em>Energy Conversion and Management</em>, vol. 297, Dec. 2023<br/><sub>A. Jawad, <b>Md. S. Hasan</b>, Md. F. I. Faruqui, and N.-A.- Masood</sub><br/><a href="https://doi.org/10.1016/j.enconman.2023.117722"><img src="https://img.shields.io/badge/DOI-Link-blue?style=flat-square" /></a>&nbsp;<a href="https://doi.org/10.1016/j.enconman.2023.117722"><img src="https://api.juleskreuer.eu/citation-badge.php?doi=10.1016/j.enconman.2023.117722" alt="Citations"/></a></td>
   </tr>
   <tr>
     <td align="center"><img src="https://img.shields.io/badge/IF-3.6-4f46e5?style=flat-square" /><br/><sub><b>Q1</b></sub></td>
-    <td><b>Techno-Economic and Environmental Analysis of Solar PV System at Sher-e-Bangla National Cricket Stadium</b><br/><em>IEEE Access</em>, vol. 13, 2025<br/><sub>M. A. I. Rafi, <b>Md. S. Hasan</b>, I.-U. Rashid, M. M. Hasan, et al.</sub><br/><a href="https://doi.org/10.1109/access.2025.3553636"><img src="https://img.shields.io/badge/DOI-Link-blue?style=flat-square" /></a></td>
+    <td><b>Techno-Economic and Environmental Analysis of Solar PV System at Sher-e-Bangla National Cricket Stadium</b><br/><em>IEEE Access</em>, vol. 13, 2025<br/><sub>M. A. I. Rafi, <b>Md. S. Hasan</b>, I.-U. Rashid, M. M. Hasan, et al.</sub><br/><a href="https://doi.org/10.1109/access.2025.3553636"><img src="https://img.shields.io/badge/DOI-Link-blue?style=flat-square" /></a>&nbsp;<a href="https://doi.org/10.1109/access.2025.3553636"><img src="https://api.juleskreuer.eu/citation-badge.php?doi=10.1109/access.2025.3553636" alt="Citations"/></a></td>
   </tr>
   <tr>
     <td align="center"><img src="https://img.shields.io/badge/IF-3.6-4f46e5?style=flat-square" /><br/><sub><b>Q1</b></sub></td>
-    <td><b>Assessment of Greenhouse Gas Emissions and Mitigation Strategies for a University in Bangladesh</b><br/><em>IEEE Access</em>, vol. 13, Jan. 2025<br/><sub>M. Rasheduzzaman, <b>Md. S. Hasan</b>, N. A. Jahan, A. Jawad, and M. M. Hossain</sub><br/><a href="https://doi.org/10.1109/access.2025.3605517"><img src="https://img.shields.io/badge/DOI-Link-blue?style=flat-square" /></a></td>
+    <td><b>Assessment of Greenhouse Gas Emissions and Mitigation Strategies for a University in Bangladesh</b><br/><em>IEEE Access</em>, vol. 13, Jan. 2025<br/><sub>M. Rasheduzzaman, <b>Md. S. Hasan</b>, N. A. Jahan, A. Jawad, and M. M. Hossain</sub><br/><a href="https://doi.org/10.1109/access.2025.3605517"><img src="https://img.shields.io/badge/DOI-Link-blue?style=flat-square" /></a>&nbsp;<a href="https://doi.org/10.1109/access.2025.3605517"><img src="https://api.juleskreuer.eu/citation-badge.php?doi=10.1109/access.2025.3605517" alt="Citations"/></a></td>
   </tr>
 </table>
 
@@ -200,19 +214,19 @@
 <table>
   <tr>
     <td align="center"><img src="https://img.shields.io/badge/IEEE-ICPS-6366f1?style=flat-square" /></td>
-    <td><b>Clean Hydrogen Production from Floating Photovoltaics: Dhanmondi Lake Case Study</b><br/><sub><b>Md. S. Hasan</b> and A. Jawad · ICPS 2023</sub> · <a href="https://doi.org/10.1109/icps60393.2023.10428710"><img src="https://img.shields.io/badge/DOI-Link-blue?style=flat-square" /></a></td>
+    <td><b>Clean Hydrogen Production from Floating Photovoltaics: Dhanmondi Lake Case Study</b><br/><sub><b>Md. S. Hasan</b> and A. Jawad · ICPS 2023</sub> · <a href="https://doi.org/10.1109/icps60393.2023.10428710"><img src="https://img.shields.io/badge/DOI-Link-blue?style=flat-square" /></a>&nbsp;<a href="https://doi.org/10.1109/icps60393.2023.10428710"><img src="https://api.juleskreuer.eu/citation-badge.php?doi=10.1109/icps60393.2023.10428710" alt="Citations"/></a></td>
   </tr>
   <tr>
     <td align="center"><img src="https://img.shields.io/badge/IEEE-INFOTEH-6366f1?style=flat-square" /></td>
-    <td><b>Exploring Classification of Vehicles Using Horn Sound Analysis: A Deep Learning Approach</b><br/><sub>M. A. I. Rafi, M. R. Sohan, <b>Md. S. Hasan</b>, et al. · INFOTEH 2024</sub> · <a href="https://doi.org/10.1109/INFOTEH60418.2024.10496018"><img src="https://img.shields.io/badge/DOI-Link-blue?style=flat-square" /></a></td>
+    <td><b>Exploring Classification of Vehicles Using Horn Sound Analysis: A Deep Learning Approach</b><br/><sub>M. A. I. Rafi, M. R. Sohan, <b>Md. S. Hasan</b>, et al. · INFOTEH 2024</sub> · <a href="https://doi.org/10.1109/INFOTEH60418.2024.10496018"><img src="https://img.shields.io/badge/DOI-Link-blue?style=flat-square" /></a>&nbsp;<a href="https://doi.org/10.1109/INFOTEH60418.2024.10496018"><img src="https://api.juleskreuer.eu/citation-badge.php?doi=10.1109/INFOTEH60418.2024.10496018" alt="Citations"/></a></td>
   </tr>
   <tr>
     <td align="center"><img src="https://img.shields.io/badge/IEEE-CIEES-6366f1?style=flat-square" /></td>
-    <td><b>The Potential of Agrophotovoltaics in Sustainable Energy Generation: Bangladesh Case Study</b><br/><sub><b>Md. S. Hasan</b> and A. Jawad · CIEES 2024</sub> · <a href="https://doi.org/10.1109/CIEES62939.2024.10811224"><img src="https://img.shields.io/badge/DOI-Link-blue?style=flat-square" /></a></td>
+    <td><b>The Potential of Agrophotovoltaics in Sustainable Energy Generation: Bangladesh Case Study</b><br/><sub><b>Md. S. Hasan</b> and A. Jawad · CIEES 2024</sub> · <a href="https://doi.org/10.1109/CIEES62939.2024.10811224"><img src="https://img.shields.io/badge/DOI-Link-blue?style=flat-square" /></a>&nbsp;<a href="https://doi.org/10.1109/CIEES62939.2024.10811224"><img src="https://api.juleskreuer.eu/citation-badge.php?doi=10.1109/CIEES62939.2024.10811224" alt="Citations"/></a></td>
   </tr>
   <tr>
     <td align="center"><img src="https://img.shields.io/badge/IEEE-BITCON-6366f1?style=flat-square" /></td>
-    <td><b>Superconductors Application in Power Sector: a Review</b><br/><sub><b>Md. S. Hasan</b>, J. N. Anjuman, J. Ali, and A. Jawad · BITCON 2024</sub> · <a href="https://doi.org/10.1109/bitcon63716.2024.10984453"><img src="https://img.shields.io/badge/DOI-Link-blue?style=flat-square" /></a></td>
+    <td><b>Superconductors Application in Power Sector: a Review</b><br/><sub><b>Md. S. Hasan</b>, J. N. Anjuman, J. Ali, and A. Jawad · BITCON 2024</sub> · <a href="https://doi.org/10.1109/bitcon63716.2024.10984453"><img src="https://img.shields.io/badge/DOI-Link-blue?style=flat-square" /></a>&nbsp;<a href="https://doi.org/10.1109/bitcon63716.2024.10984453"><img src="https://api.juleskreuer.eu/citation-badge.php?doi=10.1109/bitcon63716.2024.10984453" alt="Citations"/></a></td>
   </tr>
 </table>
 
@@ -222,7 +236,7 @@
 
 | # | Project | Tools | Highlights |
 |:-:|:--------|:------|:-----------|
-| 🇬🇧 | **PEC Solar-to-Hydrogen Device Simulation** *(King's College London)* | COMSOL Multiphysics, OriginLab | Modeled hematite photoanodes, KOH electrolyte, Pt counter-electrodes |
+| 👑 | **PEC Solar-to-Hydrogen Device Simulation** *(King's College London)* | COMSOL Multiphysics, OriginLab | Modeled hematite photoanodes, KOH electrolyte, Pt counter-electrodes |
 | 🔊 | **Vehicle Classification via Horn Sound & Deep Learning** | Python, PyTorch, MATLAB | Spectrogram extraction, DNN classification of vehicle types |
 | ☀️ | **10kW Rooftop Solar PV Simulation** *(ULAB C-Building)* | PVSyst, SAM, Helioscope | Techno-economic feasibility for campus energy independence |
 | 🔌 | **10-Story Building Electrical System Design** | AutoCAD Electrical | Full power distribution layout & wiring configuration |
