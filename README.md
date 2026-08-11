@@ -4,22 +4,21 @@
   ════════════════════════════════════════════════════════════════════════
 -->
 
-<!-- ═══════════════════ MAIN GRAPHIC BANNER ═══════════════════ -->
+<!-- ═══════════════════ ELECTRIFYING RESEARCHER HERO ═══════════════════ -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,36&height=220&section=header&text=Md.%20Sajid%20Hasan&fontSize=52&fontColor=A855F7&animation=twinkling&desc=Electrical%20%26%20Electronic%20Engineering%20Researcher&descSize=18&descAlignY=70&descAlign=50" width="100%" alt="Header Banner" />
-</p>
+<div align="center">
 
-<!-- MONOSPACE SUB-CAPTION -->
+<h2 align="center">⚡ Md. Sajid Hasan ⚡</h2>
+
 <h3 align="center">
   <samp>
-    &gt; Hello World! I am <b><a target="_blank" href="https://sites.google.com/view/mdsajidhasan">Md. Sajid Hasan</a></b> ⚡
+    &gt; Hey all! I am <b><a target="_blank" href="https://sites.google.com/view/mdsajidhasan">Md. Sajid Hasan</a></b>
   </samp>
 </h3>
 
 <p align="center">
   <samp>
-    「 EEE Researcher Specializing in Solar PV, Green Hydrogen & Device Simulation 」
+    「 EEE Researcher Specializing in Sustainable Energy, Renewables & Device Simulation 」
   </samp>
 </p>
 
@@ -67,15 +66,16 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Location-Dhaka,%20Bangladesh-6366f1?style=flat-square&logo=googlemaps&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/IELTS-7.0-a855f7?style=flat-square" />
 </p>
+
+</div>
 
 <!-- INTERACTIVE COLLAPSIBLE QUICK SUMMARY CARDS -->
 <details>
 <summary><strong>⚡ Click to Expand Quick Research Profile & Specs</strong></summary>
 <br>
 
-> **Research Focus**: Photoelectrochemical (PEC) Solar Cells, Green Hydrogen, Microgrid Energy Systems, Multiphysics Simulation (COMSOL Multiphysics, SCAPS-1D).
+> **Research Focus**: Sustainable Energy, Photoelectrochemical, Green Hydrogen, Energy Systems, Multiphysics Simulation.
 > **Publication Impact**: 3× Q1 Journals (*Energy Conv. & Mgmt.* IF: 10.9, *IEEE Access* IF: 3.6) + 4× International IEEE Conference Proceedings.
 
 </details>
@@ -86,9 +86,9 @@
 </p>
 
 <!-- ═══════════════════ SECTION: ABOUT ME ═══════════════════ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=50&section=header&text=🔬%20About%20Me&fontSize=22&fontColor=ffffff" width="100%" alt="About Me Header" />
-</p>
+<h2 align="center">
+  <img src="https://img.shields.io/badge/🔬%20About%20Me-7c3aed?style=for-the-badge&labelColor=1a1b27" height="38" alt="About Me" />
+</h2>
 
 <blockquote>
   <em>Electrical & Electronic Engineering researcher pushing the boundaries of solar photovoltaics, green hydrogen, and applied AI — from simulation to real-world impact.</em>
@@ -102,9 +102,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════ SECTION: PROFESSIONAL EXPERIENCE ═══════════════════ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=4F46E5&height=50&section=header&text=💼%20Professional%20Experience&fontSize=22&fontColor=ffffff" width="100%" alt="Professional Experience Header" />
-</p>
+<h2 align="center">
+  <img src="https://img.shields.io/badge/💼%20Professional%20Experience-4f46e5?style=for-the-badge&labelColor=1a1b27" height="38" alt="Professional Experience" />
+</h2>
 
 <table>
   <tr>
@@ -141,9 +141,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════ SECTION: TECH STACK ═══════════════════ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=6366F1&height=50&section=header&text=💻%20Technical%20%26%20Simulation%20Stack&fontSize=22&fontColor=ffffff" width="100%" alt="Tech Stack Header" />
-</p>
+<h2 align="center">
+  <img src="https://img.shields.io/badge/💻%20Technical%20%26%20Simulation%20Stack-6366f1?style=for-the-badge&labelColor=1a1b27" height="38" alt="Tech Stack" />
+</h2>
 
 <div align="center">
 
@@ -171,9 +171,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════ SECTION: CITATION IMPACT ═══════════════════ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=9333EA&height=50&section=header&text=📊%20Citation%20Impact%20%26%20Publication%20Metrics&fontSize=22&fontColor=ffffff" width="100%" alt="Citation Impact Header" />
-</p>
+<h2 align="center">
+  <img src="https://img.shields.io/badge/📊%20Citation%20Impact%20%26%20Publication%20Metrics-9333ea?style=for-the-badge&labelColor=1a1b27" height="38" alt="Citation Impact" />
+</h2>
 
 <div align="center">
 
@@ -220,9 +220,9 @@ xychart-beta
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════ SECTION: RESEARCH PUBLICATIONS ═══════════════════ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=50&section=header&text=📑%20Research%20Publications&fontSize=22&fontColor=ffffff" width="100%" alt="Research Publications Header" />
-</p>
+<h2 align="center">
+  <img src="https://img.shields.io/badge/📑%20Research%20Publications-7c3aed?style=for-the-badge&labelColor=1a1b27" height="38" alt="Research Publications" />
+</h2>
 
 ### 📰 Q1 Journal Articles
 
@@ -265,9 +265,9 @@ xychart-beta
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════ SECTION: ENGINEERING PROJECTS ═══════════════════ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=4F46E5&height=50&section=header&text=🛠️%20Engineering%20Projects&fontSize=22&fontColor=ffffff" width="100%" alt="Engineering Projects Header" />
-</p>
+<h2 align="center">
+  <img src="https://img.shields.io/badge/🛠️%20Engineering%20Projects-4f46e5?style=for-the-badge&labelColor=1a1b27" height="38" alt="Engineering Projects" />
+</h2>
 
 | # | Project | Tools | Highlights |
 |:-:|:--------|:------|:-----------|
@@ -283,9 +283,9 @@ xychart-beta
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════ SECTION: CO-CURRICULAR ═══════════════════ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=6366F1&height=50&section=header&text=🌱%20Co-Curricular%20%26%20Leadership&fontSize=22&fontColor=ffffff" width="100%" alt="Co-Curricular Header" />
-</p>
+<h2 align="center">
+  <img src="https://img.shields.io/badge/🌱%20Co--Curricular%20%26%20Leadership-6366f1?style=for-the-badge&labelColor=1a1b27" height="38" alt="Co-Curricular & Leadership" />
+</h2>
 
 | Role | Organization | Highlights |
 |:-----|:-------------|:-----------|
@@ -298,9 +298,9 @@ xychart-beta
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════ SECTION: AWARDS & REVIEWS ═══════════════════ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=9333EA&height=50&section=header&text=🏆%20Awards%20%26%20Peer%20Reviewer%20Roles&fontSize=22&fontColor=ffffff" width="100%" alt="Awards Header" />
-</p>
+<h2 align="center">
+  <img src="https://img.shields.io/badge/🏆%20Awards%20%26%20Peer%20Reviewer%20Roles-9333ea?style=for-the-badge&labelColor=1a1b27" height="38" alt="Awards & Peer Reviewer Roles" />
+</h2>
 
 <div align="center">
 
